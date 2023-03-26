@@ -1,0 +1,6 @@
+C:\Users\immor\source\repos\Ex2\bin\Debug\Ex2.exe.config
+C:\Users\immor\source\repos\Ex2\bin\Debug\Ex2.exe
+C:\Users\immor\source\repos\Ex2\bin\Debug\Ex2.pdb
+C:\Users\immor\source\repos\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\immor\source\repos\Ex2\obj\Debug\Ex2.exe
+C:\Users\immor\source\repos\Ex2\obj\Debug\Ex2.pdb
